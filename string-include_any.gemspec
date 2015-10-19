@@ -7,5 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Henry Firth"]
   s.email       = 'henrynf12@gmail.com'
   s.files       = ["lib/string-include_any.rb"]
-  s.license       = 'MIT'
+  s.homepage    = "https://github.com/H12/string-include_any"
+  s.license     = 'MIT'
 end
