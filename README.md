@@ -1,6 +1,6 @@
-# MLB Gameday API
+# README
 
-This is an extension of the String class to check whether a string instance contains one or more substrings
+This is an extension of the String class in Ruby to check whether a string instance contains one or more substrings
 
 ## Installation
 
